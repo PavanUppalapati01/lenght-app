@@ -9,7 +9,9 @@
     border: 1px solid #ccc;
     padding: 20px;
 }
-
+body{
+    background-color:black;
+}
 h1 {
     margin-bottom: 20px;
 }
